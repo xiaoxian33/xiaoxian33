@@ -1,26 +1,20 @@
+# Hi, I'm Kurisu 🎀
+
+### About Me
+I'm a CS student (SCNU x University of Aberdeen), currently trying to figure things out—both in life and in code. (｡•ㅅ•｡)
+I'm not a "tech expert," just someone trying to learn and build stuff that makes me happy.
+
+### Current Status
+* **Learning**: Java, Python, and full-stack architecture. 📚
+* **Focus**: Moving from static pages to functional applications. Using AI tools to help bridge the gaps in my knowledge. 
+* **Mindset**: Everything I do is an effort in progress. Some days are harder than others, but I'm still showing up to code. (๑•̀ω•́๑)
+
+### My Project
+* **Cyber-Medicine Box**: A project I'm currently working on to manage my own needs. It's a mix of frontend design and backend logic—constant work in progress! 💊✨
+
+### Find Me
+* **Twitter**: [@itsagoodnameO_o](https://twitter.com/itsagoodnameO_o)
+* **Location**: Shenzhen & Foshan, China 📍
+
 ---
-### 🛠️ My Projects
-
-<br>
-
-<!-- 这里以后会放你的“赛博药箱”项目卡片 -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Project-CyberMedicineBox-FF69B4?style=flat-square&logo=google-keep&logoColor=white" />
-        <br><br>
-        <sub>A personal app to track medication. Frontend built, backend in progress... (๑•̀ㅂ•́)و✧</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaoxian33&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xiaoxian33&theme=radical&hide_border=true&layout=compact" />
-</p>
+*“In progress. Trying to build something, bit by bit.”* (｡♥‿♥｡)
