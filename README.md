@@ -1,20 +1,15 @@
-# Hi, I'm Kurisu 🎀
+# Hello, I'm Kurisu 🎀
 
-### About Me
-I'm a CS student (SCNU x University of Aberdeen), currently trying to figure things out—both in life and in code. (｡•ㅅ•｡)
-I'm not a "tech expert," just someone trying to learn and build stuff that makes me happy.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=F781BE&center=true&vCenter=true&lines=CS+Student+@+SCNU+&+Aberdeen;Full-Stack+Explorer+in+Progress...;Building+things+that+make+me+happy+(｡•ㅅ•｡)" />
+</p>
 
-### Current Status
-* **Learning**: Java, Python, and full-stack architecture. 📚
-* **Focus**: Moving from static pages to functional applications. Using AI tools to help bridge the gaps in my knowledge. 
-* **Mindset**: Everything I do is an effort in progress. Some days are harder than others, but I'm still showing up to code. (๑•̀ω•́๑)
+### 🎀 My Tech Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
 
-### My Project
-* **Cyber-Medicine Box**: A project I'm currently working on to manage my own needs. It's a mix of frontend design and backend logic—constant work in progress! 💊✨
-
-### Find Me
-* **Twitter**: [@itsagoodnameO_o](https://twitter.com/itsagoodnameO_o)
-* **Location**: Shenzhen & Foshan, China 📍
-
----
-*“In progress. Trying to build something, bit by bit.”* (｡♥‿♥｡)
+> **Current status**: 
+> 努力把想法变成代码，偶尔因为 Bug 怀疑人生，但总能被小小的功能实现治愈。 (๑•̀ㅂ•́)و✧
